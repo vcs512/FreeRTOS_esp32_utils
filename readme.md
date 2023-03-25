@@ -1,4 +1,4 @@
-# FreRTOS - ESP32 utils
+# FreeRTOS - ESP32 utils
 
 Utilities and snippets for using FreeRTOS in ESP32.
 
